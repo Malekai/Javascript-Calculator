@@ -10,7 +10,7 @@ p {
 }
 
 #display {
-	width: 89%;
+	width: 97%;
 	height: 40px;
 	padding-top: 10px;
 	text-align: center;
@@ -20,13 +20,12 @@ p {
 	border: 1px solid white;
 }
 
-.rows {
-	width: 300px;
+.container {
+	width: 285px;
 	margin: 0 auto;
+	margin-top: 35px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	padding-left: 20px;
-	margin-top: 70px;
 	background: #005885;
 	border-radius: 5px;
 	border: 3px solid black;
