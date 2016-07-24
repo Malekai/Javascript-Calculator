@@ -3,12 +3,6 @@ body {
         
 }
 
-p {
-	text-align: center;
-	color: white;
-	font-style: italic;
-}
-
 #display {
 	width: 97%;
 	height: 40px;
